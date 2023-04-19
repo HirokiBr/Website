@@ -1,0 +1,61 @@
+body {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  margin: 0;
+  padding: 0;
+  background-image: url("/imagem/rimuru_tempest__tensei_shitara_slime_datta_ken__by_desquishyfish_ddc4n3m.png");
+  background-size: 750px;
+}
+
+nav {
+  background-color: #622bfba0;
+  color: #ffffff;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+nav a {
+  color: #0adeff;
+  text-decoration: none;
+}
+
+a {
+  color: #0b0083;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+header {
+  background-image: url("");
+  background-size: cover;
+  color: #3e0d49;
+  padding: 75px;
+  text-align: center;
+}
+
+header h1 {
+  font-size: 48px;
+  margin-bottom: 20px;
+}
+
+/* Estilos para as seções */
+section {
+  padding: 50px;
+}
+
+section h2 {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+footer {
+  background-color: #581c78;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}

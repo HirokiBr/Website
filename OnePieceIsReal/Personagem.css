@@ -1,0 +1,45 @@
+h1 {
+  color: whitesmoke;
+  text-align: center;
+  font-size: 50px;
+  text-shadow: 5px 6px 3px black;
+  -webkit-text-stroke: 1px black;
+}
+
+h2 {
+  color: white;
+  text-align: center;
+  font-size: 50px;
+  text-shadow: 5px 6px 3px black;
+  -webkit-text-stroke-color: #000000;
+}
+
+body {
+  background-image: url(/imagem/rimuru_tempest_fanart_by_chiinyan_dcrc1ea.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  background-attachment: fixed;
+}
+
+.section {
+  line-height: 1.5;
+  padding: 40px;
+  border: 2px solid #ffffff;
+  margin: 50px;
+  background-color: #650add80;
+  color: rgb(130, 4, 4);
+  box-shadow: 0 0 40px #51198e;
+  display: block;
+  text-align: center;
+  font-size: 25px;
+
+  text-shadow: 5px 6px 3px black;
+}
+
+p {
+  font-size: 30px;
+}
+img {
+  height: 200px;
+}

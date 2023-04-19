@@ -1,0 +1,43 @@
+body {
+  background-color: #3c3c3c;
+  color: #e5e5e5;
+  font-family: "Minecraft", sans-serif;
+  text-align: center;
+}
+
+h1 {
+  font-size: 3em;
+  margin-top: 50px;
+  text-shadow: 2px 2px #000;
+}
+
+h2 {
+  font-size: 2em;
+  margin-top: 30px;
+  text-shadow: 2px 2px #000;
+}
+
+p {
+  font-size: 1.2em;
+  line-height: 1.5em;
+  margin-top: 20px;
+}
+
+.button {
+  background-color: #1e1e1e;
+  border: 1px solid #555;
+  border-radius: 4px;
+  color: #e5e5e5;
+  display: inline-block;
+  font-size: 1em;
+  margin-top: 20px;
+  padding: 10px 20px;
+  text-decoration: none;
+  text-shadow: 1px 1px #000;
+}
+
+.button:hover {
+  background-color: #333;
+  border-color: #999;
+  text-shadow: none;
+}
